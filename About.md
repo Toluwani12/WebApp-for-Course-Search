@@ -29,4 +29,4 @@
 7. Access the Application
 > `kubectl port-forward svc/app-svc --address 0.0.0.0 31111:3000`
 
-    ![](Images/Pic7.jpg)
+![](Images/Pic7.png)
